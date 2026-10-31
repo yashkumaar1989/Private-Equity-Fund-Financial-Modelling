@@ -89,23 +89,23 @@ A central component of the model is the partnership distribution waterfall, whic
 
 The framework incorporates:
 
-**Return of Capital**
+### Return of Capital
 
 Allocation of distributions towards the recovery of investor capital contributions.
 
-**Preferred Return / Hurdle**
+### Preferred Return / Hurdle
 
 Calculation of investor preferred returns based on the applicable hurdle-rate assumptions.
 
-**GP Catch-Up**
+### GP Catch-Up
 
 Modelling of GP catch-up arrangements, including alternative treatments of catch-up before or after principal recovery.
 
-**Carried Interest**
+### Carried Interest
 
 Calculation of performance-based compensation payable to the GP under the modelled partnership economics.
 
-**Residual Profit Distribution**
+### Residual Profit Distribution
 
 Allocation of remaining distributable profits between LPs and GPs according to the applicable sharing arrangements.
 
@@ -170,19 +170,28 @@ It provides an overview of:
 
 ---
 
-## 7. Excel Financial Model
+## 7. Project Deliverables
 
-**[Download the Closed-End Fund Financial Model](./Private-Equity-Closed-End-Fund_Yash%202026.xlsx)**
+### Integrated Closed-End Fund Financial Model (Excel)
 
-The workbook demonstrates integrated financial modelling techniques across investment assumptions, portfolio projections, financing schedules, partnership waterfalls and investor-level returns.
+**[Download the Financial Model](./Private-Equity-Closed-End-Fund_Yash%202026.xlsx)**
 
-The model is intended as a practical demonstration of private equity fund financial modelling and investment performance analysis.
+An integrated Excel financial model covering fund assumptions, capital deployment, portfolio investment returns, debt financing, management fees, GP/LP distribution waterfalls, carried interest and individual investor returns.
+
+### Fund Performance Report (PDF)
+
+**[Download the Fund Performance Report](./Closed_End_Fund_Performance_Report_Illustrative.pdf)**
+
+A professional fund performance summary presenting illustrative fund assumptions, portfolio performance, gross and net investment returns, GP/LP economics, carried interest methodology and investor distributions.
+
+**Note:** All financial figures are illustrative. Reported performance metrics are model-derived and have not been independently audited.
 
 ---
 
 ## 8. Technical Skills Demonstrated
 
-**Private Equity & Fund Economics**
+### Private Equity & Fund Economics
+
 - Closed-end fund financial modelling
 - Capital commitments and investment deployment
 - GP/LP partnership economics
@@ -190,7 +199,8 @@ The model is intended as a practical demonstration of private equity fund financ
 - GP catch-up and carried interest
 - Investor-level cash flow analysis
 
-**Financial Modelling & Valuation**
+### Financial Modelling & Valuation
+
 - Integrated cash flow modelling
 - Debt financing schedules
 - Portfolio investment and exit analysis
@@ -198,7 +208,8 @@ The model is intended as a practical demonstration of private equity fund financ
 - NAV and fund performance analysis
 - Scenario-driven financial assumptions
 
-**Investment Reporting**
+### Investment Reporting
+
 - Fund performance reporting
 - Investor return analysis
 - Management and executive summaries
